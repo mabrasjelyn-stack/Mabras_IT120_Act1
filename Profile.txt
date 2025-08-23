@@ -5,3 +5,10 @@ Gender: Female
 Age: 20
 Birthday: June 14, 2005
 Contacts: 09055654468
+
+Birth Place: Purok-3 Humilog
+Religion: Roman Catholic
+Father's Name: Antonio G. Mabras
+Occupation: Farmer
+Mother's Name: Alicia D. Mabras
+Occupation: House Wife
